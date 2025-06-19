@@ -24,6 +24,7 @@
     <ProjectGuid>{c29d73a8-b632-4d64-b847-9fbf4d4f396d}</ProjectGuid>
     <RootNamespace>Lec02Findmax</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Lec02_Findmax</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
